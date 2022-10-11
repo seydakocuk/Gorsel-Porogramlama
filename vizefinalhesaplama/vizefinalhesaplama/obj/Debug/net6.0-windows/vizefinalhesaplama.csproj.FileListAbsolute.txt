@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\bin\Debug\net6.0-windows\vizefinalhesaplama.exe
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\bin\Debug\net6.0-windows\vizefinalhesaplama.deps.json
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\bin\Debug\net6.0-windows\vizefinalhesaplama.runtimeconfig.json
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\bin\Debug\net6.0-windows\vizefinalhesaplama.dll
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\bin\Debug\net6.0-windows\vizefinalhesaplama.pdb
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\vizefinalhesaplama.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\vizefinalhesaplama.Form1.resources
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\vizefinalhesaplama.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\vizefinalhesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\vizefinalhesaplama.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\vizefinalhesaplama.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\vizefinalhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\vizefinalhesaplama.dll
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\refint\vizefinalhesaplama.dll
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\vizefinalhesaplama.pdb
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\vizefinalhesaplama.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\BİLGİSAYAR PROGRAMCILIĞI-2\GORSEL-PROGRAMLAMA\vizefinalhesaplama\vizefinalhesaplama\obj\Debug\net6.0-windows\ref\vizefinalhesaplama.dll
